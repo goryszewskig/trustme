@@ -14,7 +14,7 @@ cffi==1.14.4
     # via cryptography
 coverage==5.3.1
     # via pytest-cov
-cryptography==2.9.2
+cryptography==3.3.1
     # via
     #   -r test-requirements.in
     #   pyopenssl
@@ -43,7 +43,7 @@ pyasn1==0.4.8
     #   service-identity
 pycparser==2.20
     # via cffi
-pyopenssl==19.1.0
+pyopenssl==20.0.1
     # via -r test-requirements.in
 pyparsing==2.4.7
     # via packaging
